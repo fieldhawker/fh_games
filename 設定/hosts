@@ -1,0 +1,44 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+### marutto
+127.0.0.1       sp.local.marutto-hikaku.com
+127.0.0.1       mobile.local.marutto-hikaku.com
+127.0.0.1       admin.local.marutto-hikaku.com
+127.0.0.1       pc.local.mikkel_pc.com
+127.0.0.1       admin.local.mikkel_admin.com
+127.0.0.1       sp.local.mikkel_fp.com
+127.0.0.1       mb.local.mikkel_fp.com
+127.0.0.1       api.local.mikkel_fp.com
+127.0.0.1       pc.local.yii_pc.com
+127.0.0.1       fortune.pc.local.admin.com
+127.0.0.1       fortune.sp.local.front.com
+127.0.0.1       fortune.ios.local.front.com
+127.0.0.1       fh_games.front.com
+
+192.168.33.10       sp.dev.marutto-hikaku.com
+192.168.33.10       mobile.dev.marutto-hikaku.com
+192.168.33.10       admin.dev.marutto-hikaku.com
+192.168.33.10       love.dev.cakeadmin.com
+192.168.33.10       dev.phpmyadmin.com
+192.168.34.106      fortune.sp.siriustest.auone.jp
+192.168.34.106      fortune.ios.siriustest.auone.jp
